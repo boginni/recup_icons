@@ -1,0 +1,13 @@
+name: recup_icons
+description: A new Flutter package project.
+version: 0.0.1
+
+environment:
+  sdk: '>=3.0.6 <4.0.0'
+  flutter: ">=1.17.0"
+
+flutter:
+  fonts:
+    - family: RecupIcons
+      fonts:
+        - asset: assets/RecupIcons.ttf
