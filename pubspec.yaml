@@ -6,6 +6,10 @@ environment:
   sdk: '>=3.0.6 <4.0.0'
   flutter: ">=1.17.0"
 
+dependencies:
+  flutter:
+    sdk: flutter
+
 flutter:
   fonts:
     - family: RecupIcons
