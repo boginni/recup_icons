@@ -2,7 +2,7 @@
 import 'package:flutter/material.dart';
 
 sealed class RecupIcons {
-  static const _kFontFam = 'RecupIcon';
+  static const _kFontFam = 'RecupIcons';
   static const String? _kFontPkg = null;
 
   static const IconData chevron_double_down = IconData(0xe800, fontFamily: _kFontFam, fontPackage: _kFontPkg);
